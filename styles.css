@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(202, 46, 176);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(24, 209, 46);
+    padding: 30px;
+}
+
+.container {
+    display: flex;
+    height: 45vh;
+    justify-content: center;
+}
+
+video {
+    display: flex;
+    justify-content: center;
+}
